@@ -14,7 +14,7 @@ pot butonları) baştan sona oynanabiliyor. **Geliştirme devam ediyor.**
 | ![](Debug_01.jpeg) | ![](Debug_03.jpeg) |
 | ![](Debug_08.jpeg) | ![](Debug_09.jpeg) |
 
-🎥 Oynanış videosu: <link>
+🎥 Oynanış videosu: mobile_muonline_s6e3.mp4
 
 ## Performans
 
@@ -62,10 +62,10 @@ attack / skill / potion buttons). **Work in progress.**
 <!-- add your own screenshots / video -->
 |  |  |
 |--|--|
-| ![](docs/01.png) | ![](docs/02.png) |
-| ![](docs/03.png) | ![](docs/04.png) |
+| ![](Debug_04.jpeg) | ![](Debug_05.jpeg) |
+| ![](Debug_07.jpeg) | ![](Debug_02.jpeg) |
 
-🎥 Gameplay video: <link>
+🎥 Gameplay video: mobile_muonline_s6e3.mp4
 
 ## Performance
 
