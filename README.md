@@ -11,8 +11,8 @@ pot butonları) baştan sona oynanabiliyor. **Geliştirme devam ediyor.**
 <!-- kendi ekran görüntülerini / videonu buraya ekle -->
 |  |  |
 |--|--|
-| ![](Debug_01.jpeg) | ![](Debug_03.jpeg) |
-| ![](Debug_08.jpeg) | ![](Debug_09.jpeg) |
+| ![](Debug_001.jpeg) | ![](Debug_003.jpeg) |
+| ![](Debug_008.jpeg) | ![](Debug_009.jpeg) |
 
 🎥 Oynanış videosu: mobile_muonline_s6e3.mp4
 
@@ -23,8 +23,8 @@ Gerçek orta-segment cihaz (Adreno 618):
 | Sahne | FPS |
 |------|----:|
 | Login | ~130–150 |
-| Karakter seçim | ~50 |
-| Oyun içi (Lorencia) | ~45–50 |
+| Karakter seçim | ~55 |
+| Oyun içi (Lorencia) | ~55–68 |
 
 Oyun içi kare maliyeti (ms/kare, temsili):
 
@@ -62,8 +62,8 @@ attack / skill / potion buttons). **Work in progress.**
 <!-- add your own screenshots / video -->
 |  |  |
 |--|--|
-| ![](Debug_04.jpeg) | ![](Debug_05.jpeg) |
-| ![](Debug_07.jpeg) | ![](Debug_02.jpeg) |
+| ![](Debug_004.jpeg) | ![](Debug_005.jpeg) |
+| ![](Debug_007.jpeg) | ![](Debug_002.jpeg) |
 
 🎥 Gameplay video: mobile_muonline_s6e3.mp4
 
@@ -74,8 +74,8 @@ Real mid-range device (Adreno 618):
 | Scene | FPS |
 |------|----:|
 | Login | ~130–150 |
-| Character select | ~50 |
-| In-game (Lorencia) | ~45–50 |
+| Character select | ~55 |
+| In-game (Lorencia) | ~55–68 |
 
 In-game frame cost (ms/frame, representative):
 
