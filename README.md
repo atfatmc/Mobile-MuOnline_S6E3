@@ -7,15 +7,6 @@ MU Online S6 istemcisinin çalışan Android portu — cihazda native açılıyo
 OpenMU sunucusuna bağlanıyor ve dokunmatik kontrollerle (sanal joystick, saldırı/skill/
 pot butonları) baştan sona oynanabiliyor. **Geliştirme devam ediyor.**
 
-## Görseller / Video
-<!-- kendi ekran görüntülerini / videonu buraya ekle -->
-|  |  |
-|--|--|
-| ![](Debug_001.jpeg) | ![](Debug_003.jpeg) |
-| ![](Debug_008.jpeg) | ![](Debug_009.jpeg) |
-
-🎥 Oynanış videosu: mobile_muonline_s6e3.mp4
-
 ## Performans
 
 Gerçek orta-segment cihaz (Adreno 618):
@@ -37,7 +28,7 @@ Oyun içi kare maliyeti (ms/kare, temsili):
 
 <sub>* sahne yoğunluğuna göre değişir (ekrandaki canavar / diğer oyuncu sayısı)</sub>
 
-> Oyun içi FPS, ilk derlemelerdeki ~5–8'den ~30–50'ye çıktı — optimizasyon sürüyor.
+> Oyun içi FPS, ilk derlemelerdeki ~5–8'den ~55–68'ye çıktı — optimizasyon sürüyor.
 
 
 
@@ -57,15 +48,6 @@ https://github.com/MUnique/OpenMU
 A working Android port of the MU Online S6 client — runs natively on device, connects to a
 live OpenMU server, and is fully playable with on-screen touch controls (virtual joystick,
 attack / skill / potion buttons). **Work in progress.**
-
-## Screenshots / Video
-<!-- add your own screenshots / video -->
-|  |  |
-|--|--|
-| ![](Debug_004.jpeg) | ![](Debug_005.jpeg) |
-| ![](Debug_007.jpeg) | ![](Debug_002.jpeg) |
-
-🎥 Gameplay video: mobile_muonline_s6e3.mp4
 
 ## Performance
 
