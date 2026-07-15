@@ -42,6 +42,7 @@ Cihazda çalışan port — oynanış kayıtları:
 | [Karakter Oluşturma](https://youtu.be/eMSeaBtf_Nk) | Karakter oluşturma ekranı |
 | [Castle Siege](https://youtu.be/EQS0jA3Cf2c) | Kale kuşatması etkinliği |
 | [Blood Castle](https://youtu.be/FlSAAdrY92A) | Blood Castle etkinliği |
+| [LandOfTrials](https://youtu.be/T8hNny38niU) | LandOfTrials Haritası |
 
 ## Sunucu & Teşekkür
 
@@ -93,6 +94,7 @@ The port running on a real device — gameplay recordings:
 | [Create Character](https://youtu.be/eMSeaBtf_Nk) | Character creation screen |
 | [Castle Siege](https://youtu.be/EQS0jA3Cf2c) | Castle Siege event |
 | [Blood Castle](https://youtu.be/FlSAAdrY92A) | Blood Castle event |
+| [LandOfTrials](https://youtu.be/T8hNny38niU) | LandOfTrials Map |
 
 ## Server & Credits
 
