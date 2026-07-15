@@ -32,6 +32,17 @@ Oyun içi kare maliyeti (ms/kare, temsili):
 
 
 
+## Videolar
+
+Cihazda çalışan port — oynanış kayıtları:
+
+| Video | Açıklama |
+|------|------|
+| [Genel Oynanış](https://youtu.be/B8FKNitGhw4) | Genel bakış — açılış, dünya, dokunmatik kontroller |
+| [Karakter Oluşturma](https://youtu.be/eMSeaBtf_Nk) | Karakter oluşturma ekranı |
+| [Castle Siege](https://youtu.be/EQS0jA3Cf2c) | Kale kuşatması etkinliği |
+| [Blood Castle](https://youtu.be/FlSAAdrY92A) | Blood Castle etkinliği |
+
 ## Sunucu & Teşekkür
 
 Sunucu tarafında [**OpenMU**](https://github.com/MUnique/OpenMU) kullanıldı — açık kaynak
@@ -71,6 +82,17 @@ In-game frame cost (ms/frame, representative):
 <sub>* depends on how busy the scene is (monsters / other players on screen)</sub>
 
 > In-game frame rate keeps improving across builds — optimization is ongoing.
+
+## Videos
+
+The port running on a real device — gameplay recordings:
+
+| Video | Description |
+|------|------|
+| [General Gameplay](https://youtu.be/B8FKNitGhw4) | Overview — startup, world, touch controls |
+| [Create Character](https://youtu.be/eMSeaBtf_Nk) | Character creation screen |
+| [Castle Siege](https://youtu.be/EQS0jA3Cf2c) | Castle Siege event |
+| [Blood Castle](https://youtu.be/FlSAAdrY92A) | Blood Castle event |
 
 ## Server & Credits
 
